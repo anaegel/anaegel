@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on
+- 🔭 I’m working on
   * Scalable Solvers for large Systems of Equations
   * Geometric and Algebraic Multigrid
   * Adaptive Methods
